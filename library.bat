@@ -40,45 +40,51 @@ echo 1. Hello World Android Application
 
 echo 2. Programming Resources: Colors, Themes, Strings, Dimensions and Drawables
 
-echo 3. Activity Lifecycle and Logcat
+echo 3. Basic Layout Management
 
-echo 4. Create a Fragment and Demonstrate Fragment Lifecycle
+echo 4. Advanced Layout and View Handling
 
-echo 5. Fragment-Based UI Navigation
+echo 5. Adapter Based View
 
-echo 6. Communication Between Activity and Fragment
+echo 6. Activity Lifecycle and Logcat
 
-echo 7. LinearLayout: Horizontal and Vertical
+echo 7. Create a Fragment and Demonstrate Fragment Lifecycle
 
-echo 8. Toolbar and Options Menu
+echo 8. Fragment-Based UI Navigation
 
-echo 9. AlertDialog and Custom DialogFragment
+echo 9. Communication Between Activity and Fragment
 
-echo 10. Contextual and Popup Menus
+echo 10. LinearLayout: Horizontal and Vertical
 
-echo 11. Explicit and Implicit Intents
+echo 11. Toolbar and Options Menu
 
-echo 12. Event Handling with Listeners
+echo 12. AlertDialog and Custom DialogFragment
 
-echo 13. Spinner and ListView Adapters
+echo 13. Contextual and Popup Menus
 
-echo 14. Started and Bound Services
+echo 14. Explicit and Implicit Intents
 
-echo 15. Notifications with NotificationManager
+echo 15. Event Handling with Listeners
 
-echo 16. Static and Dynamic Broadcast Receivers
+echo 16. Spinner and ListView Adapters
 
-echo 17. SQLite CRUD Operations
+echo 17. Started and Bound Services
 
-echo 18. SQLite with ListView or RecyclerView
+echo 18. Notifications with NotificationManager
 
-echo 19. Fetch and Parse JSON from Web
+echo 19. Static and Dynamic Broadcast Receivers
 
-echo 20. Threads and Handlers
+echo 20. SQLite CRUD Operations
 
-echo 21. Media APIs and Telephone APIs
+echo 21. SQLite with ListView or RecyclerView
 
-echo 22. Runtime Permissions and Security
+echo 22. Fetch and Parse JSON from Web
+
+echo 23. Threads and Handlers
+
+echo 24. Media APIs and Telephone APIs
+
+echo 25. Runtime Permissions and Security
 
 echo.
 
@@ -112,7 +118,7 @@ if "%CHOICE%"=="2" (
 
 if "%CHOICE%"=="3" (
 
-  set "FILE=Practical_03_Fundamentals_Activity_Lifecycle_and_Logcat.pdf"
+  set "FILE=3.Ba.pdf"
 
   goto download
 
