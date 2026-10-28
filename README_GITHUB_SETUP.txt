@@ -1,7 +1,7 @@
 ANDROID PRACTICAL PDF LIBRARY — SETUP
 
 CONTENTS
-- 22 individual practical PDFs.
+- 25 individual practical PDFs.
 - Each PDF begins with an Aim, steps to perform the practical, and Result.
 - The original pages/code from the uploaded practical PDFs follow the steps.
 - library.bat is a Windows CMD menu that downloads and opens a selected PDF.
@@ -11,8 +11,8 @@ GITHUB SETUP
 2. Upload library.bat and every Practical_*.pdf file into the repository ROOT (not a subfolder).
 3. Open library.bat in Notepad.
 4. Near the top, replace:
-       set "GITHUB_OWNER=YOUR_GITHUB_USERNAME"
-       set "GITHUB_REPO=YOUR_REPOSITORY_NAME"
+       set "GITHUB_OWNER=TanjiroKamado63"
+       set "GITHUB_REPO=Muzankibutsubi"
    with your GitHub account name and repository name. Keep the quotes.
 5. Save library.bat. The default branch is main; change GITHUB_BRANCH if your branch has a different name.
 6. On a Windows 10/11 computer with internet, double-click library.bat.
